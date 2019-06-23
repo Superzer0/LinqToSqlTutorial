@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlTutorial", "LinqToSqlTutorial\LinqToSqlTutorial.csproj", "{B694B812-4496-4278-8508-B51232849AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlParser", "LinqToSqlParser\LinqToSqlParser.csproj", "{70261D32-A68C-400B-8CAF-C9443E57376A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSqlParserTests", "LinqToSqlParserTests\LinqToSqlParserTests.csproj", "{DC71A247-DB3F-4728-8609-7502410B5489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B694B812-4496-4278-8508-B51232849AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B694B812-4496-4278-8508-B51232849AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B694B812-4496-4278-8508-B51232849AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B694B812-4496-4278-8508-B51232849AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70261D32-A68C-400B-8CAF-C9443E57376A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70261D32-A68C-400B-8CAF-C9443E57376A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70261D32-A68C-400B-8CAF-C9443E57376A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70261D32-A68C-400B-8CAF-C9443E57376A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC71A247-DB3F-4728-8609-7502410B5489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC71A247-DB3F-4728-8609-7502410B5489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC71A247-DB3F-4728-8609-7502410B5489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC71A247-DB3F-4728-8609-7502410B5489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F39A30A-F351-4977-BC71-2B213F1DE5B6}
+	EndGlobalSection
+EndGlobal
